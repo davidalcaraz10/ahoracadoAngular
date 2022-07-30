@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'ahorcadoAngular';
 
-  palabra = 'HOLA, TE HICE UN JUEGUITO PARA DECIRTE QUE TE AMO JIJI';
+  palabra = 'HOLATEHICEUNJUEGUITOPARADECIRTEQUETEAMOJIJI';
   palabraOculta = '';
 
   intentos = 0; 
